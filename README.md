@@ -10,7 +10,7 @@ The goal of foo is to calculate Shannon diversity
 
 ## Installation
 
-You can install the development version of foo like so:
+You can install the development version of **foo** like this:
 
 ``` r
 remotes::install_github("AndreaSanchezTapia/foo")
