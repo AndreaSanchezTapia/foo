@@ -13,5 +13,5 @@ The goal of foo is to calculate Shannon diversity
 You can install the development version of foo like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+remotes::install_github("AndreaSanchezTapia/foo")
 ```
